@@ -1,0 +1,9 @@
+// vue run 
+{
+    "presets": [
+        "env"
+    ],
+    "plugins": [
+        "transform-vue-jsx"
+    ]
+}
